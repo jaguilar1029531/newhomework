@@ -1,0 +1,1 @@
+In this project I went through some messy html and css code. I found multiple attributes that were unnecessary, so I deleted them. I also added alternative image identifications for those who are unable to load the images in the original website. I also added a title to the website tab view. 
